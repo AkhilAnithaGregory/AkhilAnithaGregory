@@ -19,25 +19,33 @@
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
-![Shadcn](https://img.shields.io/badge/-Shadcn%20UI-000?style=flat)  
-![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?style=flat&logo=ant-design&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff" alt="Tailwind CSS" />&nbsp;
+  <img src="https://img.shields.io/badge/-Shadcn%20UI-000?style=flat" alt="Shadcn UI" />&nbsp;
+  <img src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat&logo=ant-design&logoColor=fff" alt="Ant Design" />
+</p>
 
 ### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js" />
+</p>
 
 ### 📱 Mobile  
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=000)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=000" alt="React Native" />&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=fff" alt="Flutter" />
+</p>
 
 ### 🛠 Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
-![VS Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=fff)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=fff" alt="VS Code" />&nbsp;
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff" alt="Postman" />&nbsp;
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff" alt="Figma" />
+</p>
 
 ---
 
